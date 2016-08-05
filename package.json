@@ -1,6 +1,6 @@
 {
   "name": "unwin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transform windows absolute paths into UNIX paths.",
   "main": "lib/unwin.js",
   "scripts": {
